@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvr3z
 - 👀 I’m interested in Technology and also Music
-- 🌱 I’m currently learning How to live
-- 💞️ I’m looking to collaborate on My own Projects
+- 🌱 I’m currently learning develop software and live at the same time
+- 💞️ I’m looking to collaborate on My own Projects, always learning!
 - 📫 How to reach me Ig @Jav_Implo
 
 <!---
